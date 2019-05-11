@@ -7,3 +7,5 @@ planar
 ipywidgets
 folium
 requests
+julia
+pickle
