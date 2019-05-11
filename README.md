@@ -1,4 +1,4 @@
-# State Polygons
+# Polygon States
 
 This repository contains some experimentations I have to done to practice algorithmic thinking and computational geometry on polygons. The states are used as an interesting backdrop because they provide a variety of polygons from simple to complex that allow me to road-test the algorithms that I am writing. The data comes from [http://econym.org.uk/gmap/states.xml](http://econym.org.uk/gmap/states.xml). 
 
